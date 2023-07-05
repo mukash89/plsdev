@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.packt.liveclock.liveclock.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.051 s - in com.packt.liveclock.liveclock.AppTest
